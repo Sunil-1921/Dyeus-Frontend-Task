@@ -1,0 +1,48 @@
+.service-5{
+    position: relative;
+    width: 100%;
+    height: 646px;
+    background: #F66E6E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &--heading{
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 134.8%;
+        color: rgba(255, 255, 255, 0.8);
+        margin-top: 39px;
+        margin-left: 33px;
+    }
+
+    &--image{
+        width: 100%;
+    }
+
+    &--content{
+        width: 308px;
+        height: 145px;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 206.5%;
+        color: rgba(255, 255, 255, 0.8);        
+    }
+
+    &--btn{
+        width: 287px;
+        height: 43px;
+        background: #000000;
+        border-radius: 27px;
+        display: flex;
+        align-items: center;
+
+        &-content{
+            width: 287px;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 206.5%;
+            color: #FFFFFF;            
+        }
+    }
+}
