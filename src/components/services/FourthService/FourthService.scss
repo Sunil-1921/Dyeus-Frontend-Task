@@ -1,28 +1,30 @@
-.service-3{
+.service-4{
     position: relative;
     width: 100%;
-    height: 375px;
-    background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+    height: 421px;
+    background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: -5px;
 
     &--heading{
         font-weight: 500;
         font-size: 32px;
         line-height: 134.8%;
         color: #000000;
-        margin: 0 30px;
-        margin-top: 39px;
+        margin: 0 27px;
+        margin-top: 34px;
     }
 
     &--content{
+        width: 308px;
+        height: 145px;
         font-weight: 300;
         font-size: 14px;
         line-height: 206.5%;
         color: rgba(0, 0, 0, 0.8);
-        margin: 0 33px;
-        margin-top: 21px;   
+        margin-top: 22px;
     }
 
     &--btn{
@@ -34,13 +36,15 @@
         gap: 10px;
         width: 315px;
         height: 66px;
-        background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
-        filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+        background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+        box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
         border-radius: 70px;
         border: none;
         margin-top: 33px;
         
         &-content{
+            width: 186px;
+            height: 30px;
             font-weight: 600;
             font-size: 19.8605px;
             line-height: 30px;
@@ -51,8 +55,9 @@
             flex-grow: 0;
         }
     }
-    
-}
-.service-3--image{
-    width: 100%;
+
+    &--image{
+        width: 100%;
+        margin-top: 35px;
+    }
 }
