@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Dyeus-Frontend-Task/static/css/main.3963ef1a.css",
+    "main.js": "/Dyeus-Frontend-Task/static/js/main.c3475ca0.js",
+    "static/js/787.960ef0b6.chunk.js": "/Dyeus-Frontend-Task/static/js/787.960ef0b6.chunk.js",
+    "static/media/img2.png": "/Dyeus-Frontend-Task/static/media/img2.3152254563e3770ae50a.png",
+    "static/media/img3.png": "/Dyeus-Frontend-Task/static/media/img3.37390b8942f6a88f435b.png",
+    "static/media/img1.png": "/Dyeus-Frontend-Task/static/media/img1.4ae3abfadb0ab1f3d9bf.png",
+    "static/media/img4.png": "/Dyeus-Frontend-Task/static/media/img4.342827ba2925aace40b0.png",
+    "static/media/doctor.png": "/Dyeus-Frontend-Task/static/media/doctor.f5194bfe834b861dd124.png",
+    "static/media/flower.png": "/Dyeus-Frontend-Task/static/media/flower.38aa68bddfcf0cfe67b6.png",
+    "static/media/calendar.png": "/Dyeus-Frontend-Task/static/media/calendar.7c6bb4f0f92af2c8d48a.png",
+    "static/media/potion.png": "/Dyeus-Frontend-Task/static/media/potion.2ea4a7c0c64665237b8d.png",
+    "static/media/toggle.png": "/Dyeus-Frontend-Task/static/media/toggle.237172287245ce281199.png",
+    "index.html": "/Dyeus-Frontend-Task/index.html",
+    "main.3963ef1a.css.map": "/Dyeus-Frontend-Task/static/css/main.3963ef1a.css.map",
+    "main.c3475ca0.js.map": "/Dyeus-Frontend-Task/static/js/main.c3475ca0.js.map",
+    "787.960ef0b6.chunk.js.map": "/Dyeus-Frontend-Task/static/js/787.960ef0b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3963ef1a.css",
+    "static/js/main.c3475ca0.js"
+  ]
+}
