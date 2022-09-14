@@ -1,0 +1,84 @@
+.last{
+    width: 100%;
+    height: 373px;
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &--content{
+        width: 274px;
+        height: 220px;
+        font-family: 'Reptile';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 33px;
+        line-height: 134.8%;
+        color: rgba(0, 0, 0, 0.8);
+    }
+}
+
+.footer{
+    position: relative;
+    width: 100%;
+    height: 390px;
+    color: #fff;
+    background: #050506;
+    
+    &--icons{
+        font-size: 10px;
+    }
+    
+    &--links{
+        margin-left: 37px;
+        list-style: none;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 206.5%;
+        color: #FFFFFF;
+        padding-top: 100px;
+    }
+    
+    hr{
+        width: 80%;
+        margin-top: 30px;
+        margin-left: 38px;
+    }
+
+    &--newsletter{
+        margin-left: 37px;
+        margin-top: 20px;
+        width: 121px;
+        height: 18px;
+        font-weight: 300;
+        font-size: 8.94737px;
+        line-height: 206.5%;
+        color: #FFFFFF;
+    }
+    
+    &--mail-input{
+        margin-left: 37px;
+        margin-top: 5px;
+        box-sizing: border-box;
+        width: 216px;
+        height: 30px;
+        background: rgba(255, 255, 255, 0.62);
+        border: 1px solid #E7F6FC;
+        border-radius: 4px;   
+    }
+
+    &--btn{
+        box-sizing: border-box;
+        width: 85px;
+        height: 27.48px;
+        background: #D6F4FB;
+        border: 1.2782px solid #E9F4FF;
+        border-radius: 17.2556px;
+        border: none;
+        margin-left: 5px;
+        &-content{
+            
+        }
+    }
+}
