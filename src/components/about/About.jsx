@@ -4,7 +4,7 @@ import './About.scss'
 export const About = () => {
   return (
     <>
-    <div className='about'>
+    <div className='about--box'>
         <div className="about--title">What makes us different?</div>
         <div className="about--heading">Reimagining and rewiring self-care</div>
         <div className="about--content">You care about conscious consumption, and so do we.

@@ -7,7 +7,7 @@ import call from '../../img/call-icon.png'
 export const Home = () => {
   return (
     <>
-    <div className='home'>
+    <div className='home--box'>
         
         <div className='home--title'>About Diana</div>
         <div className='home--heading'>A platform that looks out for you
